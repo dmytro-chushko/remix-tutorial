@@ -103,4 +103,3 @@ const Favorite: FunctionComponent<{
     </fetcher.Form>
   );
 };
-// 'gid://shopify/Product/8463964504232';
